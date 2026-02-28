@@ -31,3 +31,4 @@ grades <- data.frame(names=c("John", "Juan", "Jean", "Yao"),
 grades
 
 class(grades$names)
+
